@@ -1,0 +1,1 @@
+/usr/lib/x86_64-linux-gnu /usr/include/x86_64-linux-gnu/pari
